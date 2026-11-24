@@ -1,0 +1,11 @@
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Generated reports and logs
+logs/*.log
+output/reports/*.txt
+
+# Keep empty directories in Git
+!logs/.gitkeep
